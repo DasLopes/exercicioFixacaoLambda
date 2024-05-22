@@ -27,5 +27,7 @@ Email of people whose salary is more than 2000.00:
 anna@gmail.com
 
 bob@gmail.com
+
 maria@gmail.com
+
 Sum of salary of people whose name starts with 'M': 4900.00
